@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Halo, kami Tutorial SLiMS 👋</h1>
 
-<!--
-**tutorialslims/tutorialslims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Tutorial &amp; Pengembangan SLiMS · Otomasi Perpustakaan · Template OPAC</b></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Berbagi+tutorial+SLiMS;Membuat+template+OPAC+kustom;Belajar+otomasi+perpustakaan" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Indonesia-000000?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/SLiMS-9.x-2F81F7?style=flat" />
+  <img src="https://img.shields.io/badge/Terbuka_untuk_kolaborasi-2EA043?style=flat" />
+</p>
+
+---
+
+Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library Management System), mulai dari instalasi sampai kustomisasi tampilan OPAC.
+
+### 📦 Proyek
+- [Nama-Repo-1](https://github.com/tutorialslims/Nama-Repo-1) — deskripsi singkat
+- [Nama-Repo-2](https://github.com/tutorialslims/Nama-Repo-2) — deskripsi singkat
+
+### 📫 Kontak
+Email: alamat@email.com
