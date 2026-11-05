@@ -1,6 +1,6 @@
 <h1 align="center">Halo, Saya Admin Tutorial SLiMS 👋</h1>
 
-<p align="center"><b>Spesialis Perbaikan Error SLiMS · Mengonlinekan SLiMS · Migrasi data Inlislite Ke SLiMS . Upgrade SLiMS . Pelatihan SLiMS</b></p>
+<p align="center"><b>Spesialis Perbaikan Error SLiMS · Buat Template/Plugin . Mengonlinekan SLiMS · Migrasi data Inlislite Ke SLiMS . Upgrade SLiMS . Pelatihan SLiMS</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Berbagi+tutorial+SLiMS;Membuat+template+OPAC+kustom;Belajar+otomasi+perpustakaan" alt="Typing SVG" />
