@@ -16,9 +16,5 @@
 
 Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library Management System), mulai dari instalasi sampai kustomisasi tampilan OPAC.
 
-### 📦 Proyek
-- [Nama-Repo-1](https://github.com/tutorialslims/Nama-Repo-1) — deskripsi singkat
-- [Nama-Repo-2](https://github.com/tutorialslims/Nama-Repo-2) — deskripsi singkat
-
 ### 📫 Kontak
 Email: alamat@email.com
