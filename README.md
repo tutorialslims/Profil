@@ -1,4 +1,4 @@
-<h1 align="center">Halo, kami Tutorial SLiMS 👋</h1>
+<h1 align="center">Halo, Saya Admin Tutorial SLiMS 👋</h1>
 
 <p align="center"><b>Tutorial &amp; Pengembangan SLiMS · Otomasi Perpustakaan · Template OPAC</b></p>
 
