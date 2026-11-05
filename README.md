@@ -17,4 +17,5 @@
 Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library Management System), mulai dari instalasi sampai kustomisasi tampilan OPAC.
 
 ### 📫 Kontak
-Email: alamat@email.com
+Instagram : https://www.instagram.com/tutorial_slims/
+Email: tutorialslims@gmail.com
