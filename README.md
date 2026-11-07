@@ -59,3 +59,4 @@ Apapun masalah error SLiMS, kami siap membantu, silakan DM ke Instagram.
 
 - Email: tutorialslims@gmail.com
 - Instagram: [@tutorial_slims](https://instagram.com/tutorial_slims)
+- YouTube: [Tutorial SLiMS](https://www.youtube.com/@TutorialSlims)
