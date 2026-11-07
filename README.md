@@ -24,7 +24,6 @@
 
 ---
 
-
 ## 💼 Yang Kami Lakukan
 
 - 🛠️ **Spesialis Perbaikan Error SLiMS**: konsultasi dan penanganan masalah SLiMS
@@ -34,6 +33,7 @@
 
 📺 Tonton tutorial lengkapnya di [YouTube Tutorial SLiMS](https://www.youtube.com/@TutorialSlims)
 📸 Ikuti info dan tips terbaru di [Instagram @tutorial_slims](https://instagram.com/tutorial_slims)
+
 ---
 
 ## 🏗️ Template
