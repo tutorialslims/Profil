@@ -20,9 +20,8 @@
 [![SLiMS](https://img.shields.io/badge/SLiMS-9.8.0-1f6feb?style=flat-square)](https://slims.web.id)
 [![Contact](https://img.shields.io/badge/Open%20for%20questions-2ea44f?style=flat-square)](mailto:tutorialslims@gmail.com)
 
-
 </div>
-
+---
 ## 💼 Yang Kami Lakukan
 
 - 🛠️ **Spesialis Perbaikan Error SLiMS**: konsultasi dan penanganan masalah SLiMS
@@ -39,14 +38,6 @@
 | Template | Deskripsi | Fitur |
 |---|---|---|
 | 🎨 **[Pustaka Ceria](https://github.com/tutorialslims/slims-template-pustaka-ceria)** | Tema OPAC ceria dan ramah anak/sekolah | ID/EN · Mode gelap · Pencarian pintar · Responsif |
-
----
-
-## 💼 Yang Kami Lakukan
-
-- **Template OPAC SLiMS**: desain tema yang siap pakai untuk SLiMS 9.x
-- **Tutorial**: panduan pemasangan dan penyesuaian SLiMS
-- **Bantuan error**: konsultasi masalah SLiMS lewat Instagram atau email
 
 ---
 
