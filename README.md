@@ -27,6 +27,12 @@ Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library
 
 ---
 
+Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library Management System), mulai dari instalasi sampai kustomisasi tampilan OPAC.
+
+📺 Tonton tutorial lengkapnya di [YouTube Tutorial SLiMS](https://www.youtube.com/@TutorialSlims)
+📸 Ikuti info dan tips terbaru di [Instagram @tutorial_slims](https://instagram.com/tutorial_slims)
+
+
 ## 🏗️ Template
 
 | Template | Deskripsi | Fitur |
