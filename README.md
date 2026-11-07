@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Perbaikan+Error+SLiMS;Migrasi+Data+Inlislite+Ke+SLiMS;Upgrade+SLiMS;Pelatihan+SLiMS;Berbagi+tutorial+SLiMS;Membuat+template+OPAC+kustom;Belajar+otomasi+perpustakaan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Perbaikan+Error+SLiMS;Migrasi+Data+Inlislite+Ke+SLiMS;Mengonlinekan+SLiMS;Upgrade+SLiMS;Pelatihan+SLiMS;Berbagi+tutorial+SLiMS;Membuat+template+OPAC+kustom;Belajar+otomasi+perpustakaan" alt="Typing SVG" />
 </p>
 
 [![Instagram](https://img.shields.io/badge/@tutorial__slims-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tutorial_slims)
