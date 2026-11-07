@@ -15,9 +15,11 @@
 </p>
 
 [![Instagram](https://img.shields.io/badge/@tutorial__slims-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tutorial_slims)
+[![YouTube](https://img.shields.io/badge/YouTube-Tutorial%20SLiMS-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TutorialSlims)
 [![Location](https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![SLiMS](https://img.shields.io/badge/SLiMS-9.8.0-1f6feb?style=flat-square)](https://slims.web.id)
 [![Contact](https://img.shields.io/badge/Open%20for%20questions-2ea44f?style=flat-square)](mailto:tutorialslims@gmail.com)
+
 
 </div>
 
