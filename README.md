@@ -20,7 +20,7 @@
 [![SLiMS](https://img.shields.io/badge/SLiMS-9.8.0-1f6feb?style=flat-square)](https://slims.web.id)
 [![Contact](https://img.shields.io/badge/Open%20for%20questions-2ea44f?style=flat-square)](mailto:tutorialslims@gmail.com)
 
-Apapun masalah error SLiMS, kami siap membantu, silakan DM ke Instagram.
+APAPUN MASALAH ERROR SLIMS, KAMI SIAP MEMBANTU, SILAKAN DM KE INSTAGRAM
 
 </div>
 
