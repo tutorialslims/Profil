@@ -34,7 +34,9 @@ Email: tutorialslims@gmail.com
   <img src="https://img.shields.io/badge/Terbuka_untuk_kolaborasi-2EA043?style=flat" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Template+OPAC+untuk+SLiMS+9.8.0;Tampilan+perpustakaan+yang+ceria+dan+modern;Dukungan+bahasa+Indonesia+%2F+English;Siap+membantu+via+Instagram" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Perbaikan+Error+SLiMS;Migrasi+Data+Inlislite+Ke+SLiMS;Upgrade+SLiMS;Pelatihan+SLiMS;Berbagi+tutorial+SLiMS;Membuat+template+OPAC+kustom;Belajar+otomasi+perpustakaan" alt="Typing SVG" />
+</p>
 
 [![Instagram](https://img.shields.io/badge/@tutorial__slims-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tutorial_slims)
 [![Location](https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white)](#)
