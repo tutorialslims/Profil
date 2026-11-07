@@ -22,6 +22,8 @@
 
 </div>
 
+---
+
 
 ## 💼 Yang Kami Lakukan
 
