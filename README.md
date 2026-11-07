@@ -24,9 +24,9 @@ Email: tutorialslims@gmail.com
 
 <div align="center">
 
-# Hi, we're Tutorial SLiMS 👋
+<h1 align="center">Halo, Saya Admin Tutorial SLiMS 👋</h1>
 
-### SLiMS Theme Builder · OPAC Templates · Library Tutorials
+<p align="center"><b>Spesialis Perbaikan Error SLiMS · Buat Template/Plugin . Mengonlinekan SLiMS · Migrasi data Inlislite Ke SLiMS . Upgrade SLiMS . Pelatihan SLiMS</b></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Template+OPAC+untuk+SLiMS+9.8.0;Tampilan+perpustakaan+yang+ceria+dan+modern;Dukungan+bahasa+Indonesia+%2F+English;Siap+membantu+via+Instagram" alt="Typing SVG" />
 
