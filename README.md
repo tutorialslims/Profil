@@ -20,6 +20,8 @@
 [![SLiMS](https://img.shields.io/badge/SLiMS-9.8.0-1f6feb?style=flat-square)](https://slims.web.id)
 [![Contact](https://img.shields.io/badge/Open%20for%20questions-2ea44f?style=flat-square)](mailto:tutorialslims@gmail.com)
 
+Apapun masalah error SLiMS, kami siap membantu, silakan DM ke Instagram.
+
 </div>
 
 ---
@@ -55,8 +57,6 @@
 ---
 
 ## 📬 Kontak
-
-Apapun masalah error SLiMS, kami siap membantu, silakan DM ke Instagram.
 
 - Email: tutorialslims@gmail.com
 - Instagram: [@tutorial_slims](https://instagram.com/tutorial_slims)
