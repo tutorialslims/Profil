@@ -19,3 +19,58 @@ Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library
 ### 📫 Kontak
 Instagram : https://www.instagram.com/tutorial_slims/
 Email: tutorialslims@gmail.com
+
+=========================================================================================================================================================
+
+<div align="center">
+
+# Hi, we're Tutorial SLiMS 👋
+
+### SLiMS Theme Builder · OPAC Templates · Library Tutorials
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Template+OPAC+untuk+SLiMS+9.8.0;Tampilan+perpustakaan+yang+ceria+dan+modern;Dukungan+bahasa+Indonesia+%2F+English;Siap+membantu+via+Instagram" alt="Typing SVG" />
+
+[![Instagram](https://img.shields.io/badge/@tutorial__slims-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tutorial_slims)
+[![Location](https://img.shields.io/badge/Indonesia-000000?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![SLiMS](https://img.shields.io/badge/SLiMS-9.8.0-1f6feb?style=flat-square)](https://slims.web.id)
+[![Contact](https://img.shields.io/badge/Open%20for%20questions-2ea44f?style=flat-square)](mailto:tutorialslims@gmail.com)
+
+</div>
+
+Kami membuat **template OPAC dan tutorial untuk SLiMS** agar perpustakaan sekolah, kampus,
+dan umum tampil menarik, mudah dipakai, dan datanya tetap dari database SLiMS.
+
+---
+
+## 🏗️ Template
+
+| Template | Deskripsi | Fitur |
+|---|---|---|
+| 🎨 **[Pustaka Ceria](https://github.com/tutorialslims/slims-template-pustaka-ceria)** | Tema OPAC ceria dan ramah anak/sekolah | ID/EN · Mode gelap · Pencarian pintar · Responsif |
+
+---
+
+## 💼 Yang Kami Lakukan
+
+- **Template OPAC SLiMS**: desain tema yang siap pakai untuk SLiMS 9.x
+- **Tutorial**: panduan pemasangan dan penyesuaian SLiMS
+- **Bantuan error**: konsultasi masalah SLiMS lewat Instagram atau email
+
+---
+
+## 🛠️ Teknologi
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## 📬 Kontak
+
+Apapun masalah error SLiMS, kami siap membantu, silakan DM ke Instagram.
+
+- Email: tutorialslims@gmail.com
+- Instagram: [@tutorial_slims](https://instagram.com/tutorial_slims)
