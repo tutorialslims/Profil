@@ -28,6 +28,12 @@ Email: tutorialslims@gmail.com
 
 <p align="center"><b>Spesialis Perbaikan Error SLiMS · Buat Template/Plugin . Mengonlinekan SLiMS · Migrasi data Inlislite Ke SLiMS . Upgrade SLiMS . Pelatihan SLiMS</b></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Indonesia-000000?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/SLiMS-9.x-2F81F7?style=flat" />
+  <img src="https://img.shields.io/badge/Terbuka_untuk_kolaborasi-2EA043?style=flat" />
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Template+OPAC+untuk+SLiMS+9.8.0;Tampilan+perpustakaan+yang+ceria+dan+modern;Dukungan+bahasa+Indonesia+%2F+English;Siap+membantu+via+Instagram" alt="Typing SVG" />
 
 [![Instagram](https://img.shields.io/badge/@tutorial__slims-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tutorial_slims)
@@ -37,8 +43,7 @@ Email: tutorialslims@gmail.com
 
 </div>
 
-Kami membuat **template OPAC dan tutorial untuk SLiMS** agar perpustakaan sekolah, kampus,
-dan umum tampil menarik, mudah dipakai, dan datanya tetap dari database SLiMS.
+Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library Management System), mulai dari instalasi sampai kustomisasi tampilan OPAC.
 
 ---
 
