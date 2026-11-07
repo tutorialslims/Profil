@@ -23,8 +23,6 @@
 
 </div>
 
-Kami membagikan **tutorial, panduan, dan template** untuk SLiMS (Senayan Library Management System), mulai dari instalasi sampai kustomisasi tampilan OPAC.
-
 ## 💼 Yang Kami Lakukan
 
 - 🛠️ **Spesialis Perbaikan Error SLiMS**: konsultasi dan penanganan masalah SLiMS
